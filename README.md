@@ -25,8 +25,6 @@ Execute Commands: Enter any of the supported commands to interact with the grade
 ## Requirements
 Java Development Kit (JDK)
 ## Example
-sql
-Copy code
 Welcome to my grade book!
 Please enter the information of the first student using the following format:
 “firstName lastName PID grade”.
