@@ -24,25 +24,3 @@ This Java program allows users to manage a gradebook. Users can input student in
 3. Execute Commands: Enter any of the supported commands to interact with the gradebook.
 ## Requirements
 Java Development Kit (JDK)
-## Example
-Welcome to my grade book!
-Please enter the information of the first student using the following format:
-“firstName lastName PID grade”.
-Press Enter when you are done.
---------------------------------------------------------
-
-John Doe 1234567 85
-Student successfully added.
-
-...
-
-Please enter a new command.
---------------------------------------------------------
-
-The list of commands include:
-quit        tabLetters   tabScores   medianLetter
-medianScore averageLetter averageScore changeScore
-findName    findGrade    maxLetter   maxScore
-minLetter   minScore
-
---------------------------------------------------------
