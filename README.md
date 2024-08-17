@@ -19,9 +19,9 @@ maxScore: Display the maximum score.
 maxLetter: Display the maximum letter grade.
 quit: Exit the program.
 ## Usage
-Run the Program: Execute the Main class.
-Enter Student Information: Follow the prompt to enter student details in the format: firstName lastName PID grade. Type DONE when finished.
-Execute Commands: Enter any of the supported commands to interact with the gradebook.
+1. Run the Program: Execute the Main class.
+2. Enter Student Information: Follow the prompt to enter student details in the format: firstName lastName PID grade. Type DONE when finished.
+3. Execute Commands: Enter any of the supported commands to interact with the gradebook.
 ## Requirements
 Java Development Kit (JDK)
 ## Example
